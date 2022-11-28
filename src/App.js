@@ -7,8 +7,7 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
-          this is my new not breaking stuff feature branch!
-          <p>Made new changes</p>
+          this is my new not breaking stuff feature branch! Made new changes
         </p>
         <a
           className="App-link"

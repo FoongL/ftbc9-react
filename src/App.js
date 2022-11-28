@@ -6,9 +6,7 @@ function App() {
     <div className="App">
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          this is my new not breaking stuff feature branch! Made new changes
-        </p>
+        <p>added new-feature-2 branch</p>
         <a
           className="App-link"
           href="https://reactjs.org"

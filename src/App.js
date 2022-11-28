@@ -1,5 +1,5 @@
-import logo from './logo.svg';
-import './App.css';
+import logo from "./logo.svg";
+import "./App.css";
 
 function App() {
   return (
@@ -8,6 +8,7 @@ function App() {
         <img src={logo} className="App-logo" alt="logo" />
         <p>
           this is my new not breaking stuff feature branch!
+          <p>Made new changes</p>
         </p>
         <a
           className="App-link"
